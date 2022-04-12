@@ -2,11 +2,12 @@
 
 Hello ;This is my first repo file and my first file i my course.
 
-Bio :
+### <b>Bio :</b>
+
 I have fineshed my degree from Arap Open University.
 My specialized is Graphic Design and Multimedia.
 
-the fundamentals of a good developer:
+### the fundamentals of a good <strong>developer</strong>
 
 Developers who don't fully understand their work tend to develop complex systems.
 
@@ -24,4 +25,6 @@ The optimum code is a small bunch of code that is easy to understand, easy to re
 
 When other developers in your team see that you committed new code to source control, everyone should know that your code is tested, and works.
 
-Untested code is the code that doesn't work.
+***Untested code is the code that doesn't work.***
+
+![Alt text](https://th.bing.com/th/id/R.eaa260ab51774d5745e556ac3a959be2?rik=f8uFp9GR1Ojbzw&riu=http%3a%2f%2fwww.limitlesspowercoach.com%2fuploads%2f1%2f1%2f5%2f1%2f115102967%2fs893932251614571390_p90_i5_w1500.jpeg&ehk=DqH2i4j%2fZlL6sTXjVGMr7NhFclr02R57I3WepBA9dro%3d&risl=&pid=ImgRaw&r=0 "Untested code is the code that doesn't work")
