@@ -4,6 +4,8 @@ Hello ;This is my first repo file and my first file i my course.
 
 ### <b>Bio :</b>
 
+My name is Yasei Burqan / 26 years.
+
 I have fineshed my degree from Arap Open University.
 My specialized is Graphic Design and Multimedia.
 
